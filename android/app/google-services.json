@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230922904315",
+    "project_id": "commerce-js-mobile-app",
+    "storage_bucket": "commerce-js-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230922904315:android:600083222dcabe3502065e",
+        "android_client_info": {
+          "package_name": "com.example.commerce_js_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxjIZw3IQCSvZM_E49r4r33UYvyXs6HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
